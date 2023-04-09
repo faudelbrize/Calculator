@@ -1,0 +1,67 @@
+body{
+
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #0a0a09e1;
+}
+h1{
+    background: none;
+    text-align: center;
+    color: rgb(243, 5, 5);
+}
+
+#A{
+    
+    width: 400px;
+    height: 600px;
+
+}
+
+
+.rom{
+    display: flex;
+    height: 100px;
+    box-sizing: border-box;
+
+}
+
+
+input[type="text"]{
+
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: rgb(219, 216, 211);
+    color: rgb(95, 95, 98);
+    font-size: 28px;
+    padding: 0 20px;
+
+
+
+}
+
+
+button{
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: rgb(145, 151, 151);
+    color: rgb(253, 254, 254);
+    font-size: 2em;
+    
+}
+
+
+button:hover{
+    background-color: #f10a0a7d;
+    cursor: pointer;
+}
+
+.Q{
+    flex: 2;
+}

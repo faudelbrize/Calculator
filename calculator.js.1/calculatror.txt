@@ -1,0 +1,13 @@
+  Cette calculatrice fait plusieuzs taches :
+
+     _ Elle effectue les 4 opérations habituelles : ADIDTION, SOUSTRACTION, MULTIPLICATION, DIVISION .
+
+     _ Elle realise ces operation avec n'importes quels nombres .
+  
+     _ Elle affiche le résultat tel qu'il est .
+
+     _ Elle peux calculer les nombres avec la vergule .
+
+     _ Elle peut supprimer facilement .
+
+                                               %
